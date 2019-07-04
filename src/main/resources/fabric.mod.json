@@ -7,7 +7,7 @@
   "environment": "server",
   "depends": {
     "fabricloader": ">=0.4.8",
-    "okyanus": ">=0.1.0"
+    "okyanus": ">=0.2.0"
   },
   "entrypoints": {
     "server": [
